@@ -14,8 +14,10 @@ Front end technologies I will be developing are listed below
 
 6) Bable
 
-7) Angular 6
+7) Angular
 
 8) React
 
 9) React Native
+
+10) Blazor
